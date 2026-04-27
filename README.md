@@ -81,7 +81,3 @@
 
 ---
 
-If you want, I can next:
-
-* Generate **Chapter 1 fully written (teacher-friendly explanation + examples)**
-* Or add **code links + datasets for each chapter**
