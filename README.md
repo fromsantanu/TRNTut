@@ -75,7 +75,7 @@
 
 ## 📌 Optional Sections
 
-* [References]([#references](https://github.com/fromsantanu/TRNTut/blob/main/Sec9/p01.md))
+* [References](https://github.com/fromsantanu/TRNTut/blob/main/Sec9/p01.md)
 * [Contributing](https://github.com/fromsantanu/TRNTut/blob/main/Sec9/p02.md)
 
 ---
